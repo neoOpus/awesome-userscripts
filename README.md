@@ -111,13 +111,13 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Github Pull Request From Link](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
 * [Github Pages Linker](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
 * [Github Skip Delete Repo Verification](https://greasyfork.org/en/scripts/411790-skip-delete-repo-verification) - Skips the verification step when deleting a repository.
-* [GitHub Download ZIP] (https://greasyfork.org/en/scripts/373514-github-download-zip) - Adds download links so that downloaded filenames include the SHA
-* [GitHub Search Autocomplete] (https://greasyfork.org/en/scripts/28592-github-search-autocomplete) - Adds autocomplete search filters to GitHub
-* [GitHub Table of Contents] (https://greasyfork.org/en/scripts/18344-github-table-of-contents) - Adds a table of contents to readme & wiki pages
-* [GitHub Code Colors] (https://greasyfork.org/en/scripts/18141-github-code-colors) - Adds a color swatch next to the code color definition
-* [GitHub Font Preview] (https://greasyfork.org/en/scripts/20479-github-font-preview) - Adds a font file preview
-* [GitHub HTML Preview] (https://greasyfork.org/en/scripts/381133-github-html-preview) - Adds preview links to HTML files
-* [GitHub Image Preview] (https://greasyfork.org/en/scripts/19773-github-image-preview) - Adds clickable image thumbnails
+* [GitHub Download ZIP](https://greasyfork.org/en/scripts/373514-github-download-zip) - Adds download links so that downloaded filenames include the SHA
+* [GitHub Search Autocomplete](https://greasyfork.org/en/scripts/28592-github-search-autocomplete) - Adds autocomplete search filters to GitHub
+* [GitHub Table of Contents](https://greasyfork.org/en/scripts/18344-github-table-of-contents) - Adds a table of contents to readme & wiki pages
+* [GitHub Code Colors](https://greasyfork.org/en/scripts/18141-github-code-colors) - Adds a color swatch next to the code color definition
+* [GitHub Font Preview](https://greasyfork.org/en/scripts/20479-github-font-preview) - Adds a font file preview
+* [GitHub HTML Preview](https://greasyfork.org/en/scripts/381133-github-html-preview) - Adds preview links to HTML files
+* [GitHub Image Preview](https://greasyfork.org/en/scripts/19773-github-image-preview) - Adds clickable image thumbnails
 * [] () -
 
 ### Google
